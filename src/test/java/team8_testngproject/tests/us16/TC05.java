@@ -10,7 +10,8 @@ import team8_testngproject.utilities.Driver;
 import team8_testngproject.utilities.RaporlamaUtil;
 import team8_testngproject.utilities.ReusableMethods;
 
-public class TC05 {
+public class
+TC05 {
     P01_HomePage p01_homePage;
     P03_LoginPage p03_loginPage;
     P16_VendorStoreManagerPage p16VendorStoreManagerPage;
